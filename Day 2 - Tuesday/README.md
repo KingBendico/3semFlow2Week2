@@ -6,5 +6,5 @@
 
 ## Day 2 - Tuesday
 
-* Callbacks and more
+* JavaScript exercises - callsbacks etc.
 
