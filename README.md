@@ -10,7 +10,7 @@
 
 ## Day 3 - Wednesday
 
-* AJAX with fetch and DOM manipulation: 1-3 complete, task 4 not complete and not obligatory 
+* Fetch and Promises: 1-3 complete, task 4 not complete and not obligatory 
 
 ## Day 4 - Thursday
 
